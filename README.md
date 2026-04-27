@@ -1,16 +1,17 @@
-## Hi there 👋
+## Fala, eu sou o Eduardo!
 
-<!--
-**edu-srr/edu-srr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Atualmente estudo Python e migrando para tecnologia
 
-Here are some ideas to get you started:
+## 📃 Sobre
+- Foco em backend, automação e dados
+- Aprendizado baseado em projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Stack
+- Lógica de programação
+- Python
+- Git/GitHub
+- Estrutura de dados
+
+## 📫 Contato
+- Linkedin: www.linkedin.com/in/edusr
+- Email: eduardosilvaezx@gmail.com
