@@ -6,7 +6,7 @@
 - Foco em backend, automação e dados
 - Aprendizado baseado em projetos
 
-## Stack
+## Stacks
 - Lógica de programação
 - Python
 - Git/GitHub
