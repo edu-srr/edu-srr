@@ -2,20 +2,20 @@
 
 - Atualmente estudo Python e migrando para tecnologia
 
-## 📃 Sobre
+## Sobre
 - Foco em backend, automação e dados
 - Aprendizado baseado em projetos
 
-## 🧠 Stack
+## Stack
 - Lógica de programação
 - Python
 - Git/GitHub
 - Estrutura de dados
 
-## 📫 Contato
+## Contato
 - Linkedin: www.linkedin.com/in/edusr
 - Email: eduardosilvaezx@gmail.com
 
 ##
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/python.svg" width="40" style="filter: brightness(0) invert(1);"/>
