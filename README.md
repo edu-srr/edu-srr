@@ -1,6 +1,6 @@
 ## Fala, eu sou o Eduardo!
 
-- Atualmente estudo Python
+- Atualmente Estudo Python
 
 ## Sobre
 - Foco em backend, automação e dados
