@@ -1,38 +1,28 @@
-## Hey, I'm Eduardo
+# Hi, I'm Eduardo
 
-- Backend developer in progress
-- Studying Python, APIs, software architecture and AI
-- Building projects while learning and evolving in tech
+I'm an **ADS student** focused on learning software development and building projects with Python.
 
----
+## Currently learning
 
-## Currently studying
- - Python fundamentals
- - API development with Flask and FastAPI
- - Software Architecture
- - Code Design
- - SOLID principles
- - MVC pattern
- - JWT Authentication & Security
- - MongoDB
- - Redis applications
- - RabbitMQ
- - AI integration with FastAPI
+- Python
+- Object-Oriented Programming
+- REST APIs
+- Flask
+- Git & GitHub
 
----
+## Projects
 
-## Tech Stack
-<p> <img src="https://skillicons.dev/icons?i=python,flask,fastapi,mongodb,redis,rabbitmq,git,github,vscode" /> </p>
+### Tasks Flask CRUD
 
----
+A CRUD API built with Python and Flask as part of my backend development studies.
 
-## Goals
- - Become a strong backend developer
- - Build real-world projects
- - Learn scalable software architecture
- 
----
+[View repository](https://github.com/edu-srr/tasks-flask-crud)
+
+## About me
+
+I have professional experience in Marketing and I'm currently transitioning into Technology while pursuing my degree in ADS.
 
 ## Connect with me
- - LinkedIn: www.linkedin.com/in/edusr
- - Email: eduardosilvaezx@gmail.com
+
+- LinkedIn: https://www.linkedin.com/in/edusr/
+- Email: eduardosilvaezx@gmail.com
