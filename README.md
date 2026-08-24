@@ -1,40 +1,36 @@
-# Hi, I'm Eduardo
+# Olá, eu sou o Eduardo
 
-I'm an **ADS student** focused on learning software development and building projects with Python.
+Atualmente, tenho 19 anos e sou estudante de **ADS**, focado em aprender desenvolvimento de software e criar projetos com Python.
 
-## Currently learning
+## Estudando atualmente
 
 - Python
-- Object-Oriented Programming
-- REST APIs
+- Programação Orientada a Objetos
+- APIs REST
 - Flask
 - Git & GitHub
 
-## Projects
+## Projetos
 
 ### Tasks Flask CRUD
 
-A CRUD API built with Python and Flask as part of my backend development studies.
+Uma API CRUD desenvolvida com Python e Flask como parte dos meus estudos de desenvolvimento backend.
 
-[View repository](https://github.com/edu-srr/tasks-flask-crud)
+[Ver repositório](https://github.com/edu-srr/tasks-flask-crud)
 
 ### RPG
 
 Um jogo de batalha em turnos desenvolvido em Python utilizando Programação Orientada a Objetos.
 
-[View repository](https://github.com/edu-srr/RPG-Programacao-Orientada-Objetos)
+[Ver repositório](https://github.com/edu-srr/RPG-Programacao-Orientada-Objetos)
 
 ### Agenda de Contatos
 
-Uma agenda de contato criada como prática dos meus estudos em conceitos básicos de Python.
+Uma agenda de contatos criada como prática dos meus estudos sobre conceitos básicos de Python.
 
-[View repository](https://github.com/edu-srr/agenda-de-contatos)
+[Ver repositório](https://github.com/edu-srr/agenda-de-contatos)
 
-## About me
+## Conecte-se comigo
 
-I have professional experience in Marketing and I'm currently transitioning into Technology while pursuing my degree in ADS.
-
-## Connect with me
-
-- LinkedIn: https://www.linkedin.com/in/edusr/
-- Email: eduardosilvaezx@gmail.com
+- LinkedIn: [https://www.linkedin.com/in/edusr/](https://www.linkedin.com/in/edusr/)
+- E-mail: eduardosilvaezx\@gmail.com
