@@ -18,6 +18,12 @@ A CRUD API built with Python and Flask as part of my backend development studies
 
 [View repository](https://github.com/edu-srr/tasks-flask-crud)
 
+### RPG
+
+Um jogo de batalha em turnos desenvolvido em Python utilizando Programação Orientada a Objetos.
+
+[View repository](https://github.com/edu-srr/RPG-Programacao-Orientada-Objetos)
+
 ## About me
 
 I have professional experience in Marketing and I'm currently transitioning into Technology while pursuing my degree in ADS.
