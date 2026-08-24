@@ -24,6 +24,12 @@ Um jogo de batalha em turnos desenvolvido em Python utilizando Programação Ori
 
 [View repository](https://github.com/edu-srr/RPG-Programacao-Orientada-Objetos)
 
+### Agenda de Contatos
+
+Uma agenda de contato criada como prática dos meus estudos em conceitos básicos de Python.
+
+[View repository](https://github.com/edu-srr/agenda-de-contatos)
+
 ## About me
 
 I have professional experience in Marketing and I'm currently transitioning into Technology while pursuing my degree in ADS.
