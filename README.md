@@ -1,6 +1,6 @@
 # Olá, eu sou o Eduardo
 
-Atualmente, tenho 19 anos e sou estudante de **ADS**, focado em aprender desenvolvimento de software e criar projetos com Python.
+Sou estudante de Análise e Desenvolvimento de Sistemas (ADS), focado em aprender desenvolvimento de software e criar projetos com Python.
 
 ## Estudando atualmente
 
